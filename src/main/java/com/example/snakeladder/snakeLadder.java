@@ -73,7 +73,7 @@ public class snakeLadder extends Application {
         diceLabel.setTranslateY(infoLine);
         diceLabel.setTranslateX(160);
 
-        playerOne = new Player(tileSize, Color.BLACK,"Sipun");
+        playerOne = new Player(tileSize, Color.BLACK,"Sachchida");
         playerTwo = new Player(tileSize - 5, Color.WHITE, "Mishra");
 
         //Player Action
